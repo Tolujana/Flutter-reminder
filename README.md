@@ -1,6 +1,6 @@
 # reminder
 
-A new Flutter project.
+A REminder app built with flutter 
 
 ## Getting Started
 
